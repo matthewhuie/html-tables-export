@@ -1,0 +1,12 @@
+{
+  "name": "html-tables-export",
+  "version": "0.0.1",
+  "main": "app.js",
+  "author": "Matthew Huie <matthew@matthewhuie.com>",
+  "license": "MIT",
+  "repository": "github:matthewhuie/html-tables-export",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "got": "^11.8.1"
+  }
+}
